@@ -65,7 +65,7 @@ public class Employee {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", role='" + role + '\'' +
-                ", hourlyWage=" + hourlyWage +
+                ", hourlyWage(ManIJustDontCare)=" + hourlyWage +
                 ", hoursWorked=" + hoursWorked +
                 '}';
     }
